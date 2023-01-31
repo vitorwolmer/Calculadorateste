@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-Console.WriteLine("Calculadora Teste:");
+Console.WriteLine("Maconha!!!!:");
 
 
 double N1;
